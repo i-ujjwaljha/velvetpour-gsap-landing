@@ -1,6 +1,6 @@
 <div align="center">
   <br />
-    <a href="LINK TO THE DEPLOYMENT LINK" target="_blank">
+    <a href="https://velvetpour-gsap-landing.vercel.app/" target="_blank">
       <img src="public/readme/hero.png" alt="Project Banner">
     </a>
   <br />
